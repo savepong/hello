@@ -17,11 +17,11 @@ plugins:
   - jekyll-seo-tag
 
 title: "👋 Hello, GitHub"
-description: "@natfriedman"
+description: "@savepong"
 
 twitter:
-  username: natfriedman
+  username: savepong
 
 author:
-  name: Nat Friedman
-  twitter: natfriedman
+  name: Save Pongsiri
+  twitter: savepong
